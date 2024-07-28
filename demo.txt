@@ -1,2 +1,3 @@
 Hello students
 how is the day today?
+Hope the pull command has been understood.
